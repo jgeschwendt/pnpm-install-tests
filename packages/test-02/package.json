@@ -1,0 +1,13 @@
+{
+  "name": "@test/t-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo 'postinstall' > postinstall.txt",
+    "prepare": "echo 'prepare' > prepare.txt",
+    "test": "echo 'test' > test.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
