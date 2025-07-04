@@ -25,6 +25,7 @@
   "scripts": {
     "build": "tsc",
     "lint": "eslint",
-    "postinstall": "tsc"
+    "postinstall": "tsc",
+    "prepare": "tsc"
   }
 }
