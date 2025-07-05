@@ -1,8 +1,3 @@
 {
-  "compilerOptions": {
-    "module": "nodenext",
-    "moduleResolution": "nodenext",
-    "declaration": true,
-    "outDir": "dist",
-  }
+  "extends": "@jlg/tsconfig"
 }
